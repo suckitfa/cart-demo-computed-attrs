@@ -1,0 +1,25 @@
+body {
+    width: 600px;
+}
+
+table {
+    border: 1px solid black;
+}
+
+th {
+    height: 50px;
+}
+
+th,
+td {
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+span {
+    float: right;
+}
+
+[v-cloak] {
+    display: none;
+}
